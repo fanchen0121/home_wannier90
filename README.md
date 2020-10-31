@@ -1,7 +1,7 @@
 # Modified Wannier 90
 **!! USE AT YOUR OWN RISK !!**
 
-*The two files are modified from the source code in wannier90. The purpose of it is to generate *ukk file used for EPW calculations directly from wannier90 run.*
+*The two files are modified from the source code in wannier90. The purpose of it is to generate \*ukk file used for EPW calculations directly from wannier90 run.*
 1. added two new variables: 
    exclude  :  number of bands excluded from wannier run in EPW
    alat     :  for lattice constant, which could be obtained from QE scf run
