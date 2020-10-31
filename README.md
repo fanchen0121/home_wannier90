@@ -1,5 +1,5 @@
 # Modified Wannier 90
-**!! USE AT YOUR OWN RISK !!*
+**!! USE AT YOUR OWN RISK !!**
 
 *The two files are modified from the source code in wannier90. The purpose of it is to generate *ukk file used for EPW calculations directly from wannier90 run.*
 1. added two new variables: 
